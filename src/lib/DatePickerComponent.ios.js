@@ -183,7 +183,7 @@ let formStyles = StyleSheet.create({
     borderBottomColor: '#C8C7CC',
     backgroundColor: 'white',
     justifyContent: 'center',
-    height: 45
+    height: 40
   },
   fieldValue:{
     fontSize: 34/2,
@@ -200,7 +200,7 @@ let formStyles = StyleSheet.create({
     paddingLeft: 10,
     paddingRight: 10,
     justifyContent: 'center',
-    lineHeight: 32
+    lineHeight: 40
   },
   input:{
     paddingLeft: 10,

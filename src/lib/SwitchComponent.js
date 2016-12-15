@@ -99,14 +99,14 @@ SwitchComponent.propTypes = {
       borderBottomColor: '#C8C7CC',
       backgroundColor: 'white',
       justifyContent: 'center',
-      height: 45
+      height: 40
     },
     fieldText:{
       fontSize: 34/2,
       paddingLeft: 10,
       paddingRight: 10,
       justifyContent: 'center',
-      lineHeight: 32
+      lineHeight: 40
     },
     input:{
       paddingLeft: 10,

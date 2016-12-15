@@ -23,8 +23,8 @@ export class InputComponent extends React.Component{
     this.state = {
       labelWidth: 0,
       value: props.value,
-      minFieldHeight: props.height || 44,
-      inputHeight: Math.max(props.height || 44),
+      minFieldHeight: props.height || 40,
+      inputHeight: Math.max(props.height || 40),
       // isValid:
     };
     this.setValue = this.setValue.bind(this)

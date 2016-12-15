@@ -43,7 +43,7 @@ export class SwitchField extends React.Component{
       borderBottomColor: '#C8C7CC',
       backgroundColor: 'white',
       justifyContent: 'center',
-      height: 45
+      height: 40
     },
     horizontalContainer:{
       flexDirection: 'row',
@@ -55,7 +55,7 @@ export class SwitchField extends React.Component{
       paddingLeft: 10,
       paddingRight: 10,
       justifyContent: 'center',
-      lineHeight: 32
+      lineHeight: 40
     },
 
   });
